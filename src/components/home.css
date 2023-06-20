@@ -1,0 +1,44 @@
+.display{
+  text-align: center;
+  align-items: center;
+}
+
+
+.button{
+  padding: 0px;
+  
+}
+
+.image-slider-image {
+  height: 640px;
+}
+
+.image-slider-image img {
+  max-height: 100%;
+  width: auto;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.index-table{
+  width:60%;
+  padding-top: 0px;
+  margin: auto;
+
+}
+
+.row1{
+  height: 200px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    background-color: #c21717;
+    margin: 50px;
+    padding: 50px;
+}

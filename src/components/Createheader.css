@@ -1,0 +1,13 @@
+.header{
+  padding-left: 2%;
+  background-image: linear-gradient(80deg, transparent, rgba(18, 18, 17, 0.5), rgba(30, 29, 28, 0.868)), 
+  url('./images/cool11.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 30vh;
+  background-position: center;
+  padding-top: 4rem;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+}
