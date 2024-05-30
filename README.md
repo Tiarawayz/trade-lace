@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Screenshot 2023-08-02 224438](https://github.com/Tiarawayz/trade-lace/assets/119997013/686275dd-96fa-4132-b420-65ddee1ff5b3)
 
 
+
 In the project directory, you can run:
 
 ### `npm start`
